@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\SA\Project\ProjectSA\GameClient\bin\Debug\GameClient.exe.config
+\\Mac\Home\Documents\SA\Project\ProjectSA\GameClient\bin\Debug\GameClient.exe
+\\Mac\Home\Documents\SA\Project\ProjectSA\GameClient\bin\Debug\GameClient.pdb
+\\Mac\Home\Documents\SA\Project\ProjectSA\GameClient\obj\Debug\GameClient.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\SA\Project\ProjectSA\GameClient\obj\Debug\GameClient.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Documents\SA\Project\ProjectSA\GameClient\obj\Debug\GameClient.CategoryGameForm.resources
+\\Mac\Home\Documents\SA\Project\ProjectSA\GameClient\obj\Debug\GameClient.GameForm.resources
+\\Mac\Home\Documents\SA\Project\ProjectSA\GameClient\obj\Debug\GameClient.GameStudioForm.resources
+\\Mac\Home\Documents\SA\Project\ProjectSA\GameClient\obj\Debug\GameClient.MainForm.resources
+\\Mac\Home\Documents\SA\Project\ProjectSA\GameClient\obj\Debug\GameClient.Properties.Resources.resources
+\\Mac\Home\Documents\SA\Project\ProjectSA\GameClient\obj\Debug\GameClient.csproj.GenerateResource.cache
+\\Mac\Home\Documents\SA\Project\ProjectSA\GameClient\obj\Debug\GameClient.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\SA\Project\ProjectSA\GameClient\obj\Debug\GameClient.exe
+\\Mac\Home\Documents\SA\Project\ProjectSA\GameClient\obj\Debug\GameClient.pdb

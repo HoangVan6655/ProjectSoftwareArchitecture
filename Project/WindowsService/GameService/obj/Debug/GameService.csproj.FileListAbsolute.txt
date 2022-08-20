@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe.config
+\\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe
+\\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.pdb
+\\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameShared.dll
+\\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameShared.pdb
+\\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameShared.dll.config
+\\Mac\Home\Documents\SA\Project\WindowsService\GameService\obj\Debug\GameService.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\SA\Project\WindowsService\GameService\obj\Debug\GameService.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Documents\SA\Project\WindowsService\GameService\obj\Debug\GameService.ProjectInstaller.resources
+\\Mac\Home\Documents\SA\Project\WindowsService\GameService\obj\Debug\GameService.csproj.GenerateResource.cache
+\\Mac\Home\Documents\SA\Project\WindowsService\GameService\obj\Debug\GameService.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\SA\Project\WindowsService\GameService\obj\Debug\GameService.csproj.CopyComplete
+\\Mac\Home\Documents\SA\Project\WindowsService\GameService\obj\Debug\GameService.exe
+\\Mac\Home\Documents\SA\Project\WindowsService\GameService\obj\Debug\GameService.pdb
