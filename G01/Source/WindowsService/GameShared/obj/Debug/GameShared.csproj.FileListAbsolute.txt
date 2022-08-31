@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\SA\Project\WindowsService\GameShared\bin\Debug\GameShared.dll.config
+\\Mac\Home\Documents\SA\Project\WindowsService\GameShared\bin\Debug\GameShared.dll
+\\Mac\Home\Documents\SA\Project\WindowsService\GameShared\bin\Debug\GameShared.pdb
+\\Mac\Home\Documents\SA\Project\WindowsService\GameShared\obj\Debug\GameShared.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\SA\Project\WindowsService\GameShared\obj\Debug\GameShared.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\SA\Project\WindowsService\GameShared\obj\Debug\GameShared.dll
+\\Mac\Home\Documents\SA\Project\WindowsService\GameShared\obj\Debug\GameShared.pdb

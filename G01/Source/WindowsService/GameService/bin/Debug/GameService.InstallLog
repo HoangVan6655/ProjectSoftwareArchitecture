@@ -1,0 +1,154 @@
+﻿Installing assembly '\\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe
+   logfile = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.InstallLog
+Installing service GameService...
+Service GameService has been successfully installed.
+Creating EventLog source GameService in log Application...
+Committing assembly '\\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe
+   logfile = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.InstallLog
+Uninstalling assembly '\\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe
+   logfile = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.InstallLog
+Removing EventLog source GameService.
+Service GameService is being removed from the system...
+Service GameService was successfully removed from the system.
+Installing assembly '\\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe
+   logfile = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.InstallLog
+Installing service GameService...
+Service GameService has been successfully installed.
+Creating EventLog source GameService in log Application...
+Committing assembly '\\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe
+   logfile = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.InstallLog
+Uninstalling assembly '\\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe
+   logfile = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.InstallLog
+Removing EventLog source GameService.
+Service GameService is being removed from the system...
+Service GameService was successfully removed from the system.
+Installing assembly '\\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe
+   logfile = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.InstallLog
+Installing service GameService...
+Service GameService has been successfully installed.
+Creating EventLog source GameService in log Application...
+Committing assembly '\\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe
+   logfile = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.InstallLog
+Uninstalling assembly '\\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe
+   logfile = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.InstallLog
+Removing EventLog source GameService.
+Service GameService is being removed from the system...
+Service GameService was successfully removed from the system.
+Attempt to stop service GameService.
+Installing assembly '\\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe
+   logfile = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.InstallLog
+Installing service GameService...
+Service GameService has been successfully installed.
+Creating EventLog source GameService in log Application...
+Committing assembly '\\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe
+   logfile = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.InstallLog
+Uninstalling assembly '\\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe
+   logfile = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.InstallLog
+Removing EventLog source GameService.
+Service GameService is being removed from the system...
+Service GameService was successfully removed from the system.
+Installing assembly '\\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe
+   logfile = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.InstallLog
+Installing service GameService...
+Service GameService has been successfully installed.
+Creating EventLog source GameService in log Application...
+Committing assembly '\\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe
+   logfile = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.InstallLog
+Uninstalling assembly '\\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe
+   logfile = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.InstallLog
+Removing EventLog source GameService.
+Service GameService is being removed from the system...
+Service GameService was successfully removed from the system.
+Installing assembly '\\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe
+   logfile = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.InstallLog
+Installing service GameService...
+Service GameService has been successfully installed.
+Creating EventLog source GameService in log Application...
+Committing assembly '\\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe
+   logfile = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.InstallLog
+Uninstalling assembly '\\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe
+   logfile = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.InstallLog
+Removing EventLog source GameService.
+Service GameService is being removed from the system...
+Service GameService was successfully removed from the system.
+Installing assembly '\\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe
+   logfile = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.InstallLog
+Installing service GameService...
+Service GameService has been successfully installed.
+Creating EventLog source GameService in log Application...
+Committing assembly '\\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.exe
+   logfile = \\Mac\Home\Documents\SA\Project\WindowsService\GameService\bin\Debug\GameService.InstallLog
